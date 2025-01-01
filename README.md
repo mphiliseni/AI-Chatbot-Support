@@ -5,14 +5,14 @@
 ![image](https://github.com/user-attachments/assets/52337cba-69e5-4502-84dd-d81acc2e82ac)
 
 
-Features
+# Features
 
    Interactive Chat Interface: Allows real-time conversations with the chatbot.
    Error Analysis: Offers solutions and explanations for technical issues.
    Role-Based Access: Admins can manage FAQs and system configurations.
    Multilingual Support: Communicate in various languages.
 
-Technologies Used
+# Technologies Used
 
    Frontend: HTML, CSS, Bootstrap, JavaScript
    Backend: ASP.NET Core MVC
