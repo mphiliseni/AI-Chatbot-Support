@@ -15,5 +15,4 @@
 # Technologies Used
 
    Frontend: HTML, CSS, Bootstrap, JavaScript
-   Backend: ASP.NET Core MVC
    AI Engine: Powered by Llama 3.3 / Gemini 2.0 APIs
